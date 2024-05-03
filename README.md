@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mujahidali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mujahidali" height="30" width="40" /></a>
-<a href="https://fb.com/mujahidali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mujahidali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mujahid-ali-8477722a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mujahid-ali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/ZeZi5a2Ecexi5odx/?mibextid=qi2Omg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mujahid_Ali" height="30" width="40" /></a>
 <a href="https://instagram.com/fit_one_zone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fit_one_zone" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muz_k_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muz_k_music" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@muzkmusic5332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muz_k_music" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
