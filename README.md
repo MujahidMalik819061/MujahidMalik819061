@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahidmalik819061&label=Profile%20views&color=0e75b6&style=flat" alt="mujahidmalik819061" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/MujahidMalik819061](https://github.com/MujahidMalik819061)
+
 - ⚡ Fun fact **I am Funny😍**
 
 <h3 align="left">Connect with me:</h3>
